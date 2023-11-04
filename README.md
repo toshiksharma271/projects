@@ -4,6 +4,6 @@ This repository is a collection of all the Projects I have made.
 
 1. Clock-Project
 
-    [Live Link](./projects/clock-project)
+    [Live Link](./clock-project)
     
-    [Code Link](./projects/tree/main/clock-project)
+    [Code Link](./tree/main/clock-project)
